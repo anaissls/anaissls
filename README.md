@@ -1,20 +1,13 @@
 ## Hi, I'm Anaís 🌻
 
-Software engineer, passionate about functional programming and testing.
+Software engineer, passionate about functional programming.
 
-<div style="margin: auto; text-align: center">
-    <span>
-        <img alt="Profile summary" height="165" src="https://github-readme-stats.vercel.app/api?username=Suguis&show_icons=true&title_color=adbac7&text_color=adbac7&border_color=373e47&icon_color=539bf5&bg_color=22272e" />
-    </span>
-    <span>
-        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suguis&layout=compact&title_color=adbac7&text_color=adbac7&border_color=373e47&bg_color=22272e" />
-    </span>
-</div>
+I only use this account for work and contributions. To see my projects, visit my [Codeberg profile](https://codeberg.org/Sugui).
 
 <!--I have more projects in [my profile](https://git.fai.st/Suguivy) of our Forgejo instance.-->
 
 <!--
-**Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anaissls/anaissls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
